@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/9QlOyBFOWcCru/giphy.gif" />
 
-## I'm a Full Stack Web Developer student  
+## I'm a Junior Full Stack Web Developer   
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Node, etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
